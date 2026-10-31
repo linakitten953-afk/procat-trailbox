@@ -22,14 +22,16 @@
 
 При первом запуске автоматически создастся файл базы данных rental.db с тестовыми данными.
 
-Тестовые аккаунты
-Роль | Email | Пароль
-Администратор	admin@mail.ru	admin123
-Менеджер	manager@mail.ru	manager123
-Клиент	client@mail.ru	client123
+## Тестовые аккаунты
 
-Структура проекта
+| Роль | Email | Пароль |
+|------|-------|--------|
+| Администратор | admin@mail.ru | admin123 |
+| Менеджер | manager@mail.ru | manager123 |
+| Клиент | client@mail.ru | client123 |
 
-Program.cs - серверная логика, API и работа с БД.
-wwwroot/ - клиентская часть (index.html, style.css, app.js).
-rental.db - файл базы данных SQLite.
+## Структура проекта
+
+- `Program.cs` - серверная логика, API и работа с БД.
+- `wwwroot/` - клиентская часть (`index.html`, `style.css`, `app.js`).
+- `rental.db` - файл базы данных SQLite.
