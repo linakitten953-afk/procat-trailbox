@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "mv0+dcY+n6fMe3U8ExvnQL7CQqojXCzVZrxc6x1yBEM=",
+  "Source": "RentalApp",
+  "BasePath": "_content/RentalApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RentalApp\\wwwroot",
+      "Source": "RentalApp",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\",
+      "BasePath": "_content/RentalApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\app.js",
+      "SourceId": "RentalApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\",
+      "BasePath": "_content/RentalApp",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\index.html",
+      "SourceId": "RentalApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\",
+      "BasePath": "_content/RentalApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\style.css",
+      "SourceId": "RentalApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Documents\\370\\Новая папка\\RentalApp\\RentalApp\\wwwroot\\",
+      "BasePath": "_content/RentalApp",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
